@@ -8,7 +8,6 @@ Landing Page inspirada na SpaceX <br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -35,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing page inspirado no site da SpaceX.
 
-- [Visite o projeto online](https://jefersonsantanadev.github.io/nlw-setup)
+- [Visite o projeto online](https://jefersonsantanadev.github.io/onebit-x/)
 
 ## :memo: Licença
 
